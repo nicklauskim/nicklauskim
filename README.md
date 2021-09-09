@@ -3,7 +3,7 @@ Hello, I am Nicklaus Kim!
 </p>
 
 <p>
-I will steadily be moving all of my posts and content from my previous website (www.nicklausjkim.com - now defunct) to this new Github Pages site. I will also work on getting ALL of my coding projects on my Github profile. I know, I am late to the train; but hopefully you bear with me as I tweak this website and my Github to reflect <i>100%</i> of my academic/professional work and software development interests.
+I will steadily be moving all of my posts and content from my previous website (www.nicklausjkim.com - now defunct) to this new GitHub Pages site. I will also work on getting ALL of my coding projects on my GitHub profile. I know, I am late to the train; but hopefully you bear with me as I tweak this website and my Github to reflect <i>100%</i> of my academic/professional work and software development interests.
 </p>
 
 <p>
@@ -25,6 +25,6 @@ Lastly, you can find the source code and the instructions for this Jekyll-powere
 </p>
 
 You can contact me directly at nicklausjkim@gmail.com. Also, go and check out some of my other homes on the web:<br/><br/>
-  [Github](www.github.com/nicklauskim)<br/>
+  [GitHub](www.github.com/nicklauskim)<br/>
   [LinkedIn](www.linkedin.com/nicklauskim)<br/>
   [Kaggle](www.kaggle.com/nicklauskim)
