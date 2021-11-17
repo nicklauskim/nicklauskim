@@ -7,7 +7,7 @@ I will steadily be moving all of my posts and content from my previous website (
 </p>
 
 <p>
-I am pursuing a Master in Statistics (M.S.) at UCLA with an expected completion date of Spring 2023. I previously earned a B.S. in Applied Mathematics at UCLA (2020).
+I am pursuing a Master of Science (M.S.) in Statistics at UCLA with an expected completion date of Spring 2023. I previously earned a B.S. in Applied Mathematics at UCLA (2020).
 </p>
 
 <p>
