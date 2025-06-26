@@ -35,7 +35,7 @@ FastAPI · Flask · AWS · Git · Jupyter
 
 ## Featured Projects
 
-### [NBA Play-by-Play Dashboard](https://github.com/YOURUSERNAME/nba-dashboard)  
+### [NBA Play-by-Play Dashboard](https://github.com/nicklauskim/nba-dash)  
 **An interactive basketball analytics platform with video playback**  
 A full-stack web app for visualizing NBA play-by-play data using Dash and FastAPI.  
 - Heatmaps, pass networks, scoring timelines  
@@ -45,7 +45,17 @@ A full-stack web app for visualizing NBA play-by-play data using Dash and FastAP
 
 ---
 
-### [Privacy Auditing for Synthetic EHR Data](https://github.com/YOURUSERNAME/privacy-audit-synthetic-ehr)  
+### [Founding Stats Dashboard](https://github.com/YOURUSERNAME/founding-stats-dashboard)  
+**Visualizing correspondence networks and document metadata from the Founding Era**  
+An interactive Dash app that aggregates and analyzes metadata from letters written by and to key American founders.  
+- Interactive graphs showing communication frequency, relationships, and geographic trends  
+- Historical document metadata enrichment and network analysis  
+- Spatial and temporal visualizations of early U.S. political discourse  
+**Tech stack:** Python, Dash, Plotly, NetworkX, spaCy, pandas
+
+---
+
+### [Privacy Auditing for Synthetic EHR Data](https://github.com/nicklauskim/tabular-synthetic-data-privacy-auditing)  
 **Evaluating privacy risks in synthetic health records**  
 A research pipeline assessing de-identification and attack resilience in generative health data.  
 - Membership inference simulations  
@@ -55,7 +65,7 @@ A research pipeline assessing de-identification and attack resilience in generat
 
 ---
 
-### [AP Statistics Review Site](https://github.com/YOURUSERNAME/apstats-review)  
+### [AP Statistics Review Site](https://github.com/nicklauskim/apstats-review)  
 **Curriculum-aligned learning tools for AP Statistics**  
 A Quarto-based website for students preparing for the AP Statistics exam.  
 - Review guides, inference walkthroughs, and problem sets  
