@@ -1,81 +1,76 @@
-# 👋 Hello, I'm Nicklaus Kim
+# Nicklaus Kim
 
-🎓 **M.S. in Statistics (UCLA)** | 💼 **Aspiring Data Scientist / Analyst**  
-📊 Python • R • SQL • Dash • Machine Learning • Visualization  
-🌎 Public Sector | Research | Policy | Sports | AI Safety
-
----
-
-## 🧠 About Me
-
-I'm a data scientist and researcher with a passion for creating **impactful, intuitive, and beautiful** data solutions.
-
-I recently earned my **Master of Science in Statistics** from UCLA and am actively seeking full-time roles in **data science, analytics**, or **research-focused positions**, especially in the **public sector or mission-driven orgs**.
-
-I specialize in:
-- **Python, R, SQL** for data manipulation and modeling  
-- **Dash, Streamlit, Plotly, ggplot2** for rich, interactive dashboards  
-- **Statistical modeling, privacy-aware ML**, and **spatial analytics**
-
-Most recently, I conducted research at the **UCLA Trustworthy AI Lab**, where I explored **generative AI and synthetic data**, focusing on privacy auditing, fairness, and robustness in data-driven systems.
-
-🧪 My thesis investigated privacy vulnerabilities in synthetic health datasets, including **membership inference attacks** and **auditing frameworks** for generative models.
+**Statistician • Data Scientist • Research Analyst**  
+**M.S. in Statistics (UCLA) | B.S. in Applied Mathematics (UCLA)**
 
 ---
 
-## 🚀 Featured Projects
+## Summary
 
-### 🏀 [NBA Play-by-Play Dashboard](https://github.com/YOURUSERNAME/nba-dashboard)
-📽️ A Dash + FastAPI app visualizing NBA play-by-play data  
-→ Shot heatmaps, pass networks, scoring timelines, and synced video playback  
-`Python` `Plotly` `Dash` `FastAPI` `SQLite` `MoviePy`
+I recently completed my M.S. in Statistics at UCLA and am currently searching for research-oriented statistician or data scientist/analyst opportunities, particularly in the public sector. I’m passionate about using my mathematical background and programming skills to build tools like data dashboards and web applications and production-level statistical learning models. I have experience in statistical and machine learning research in academia and a diverse set of data analysis/science skills In particular, I specialize in:
+- Reproducible data workflows in **Python, R, and SQL**
+- **Statistical modeling**, **machine learning**, and **spatial data analysis**
+- **Data visualization** and **Interactive dashboards** using Dash, Plotly, and Streamlit
+- **Privacy-aware modeling** and synthetic data evaluation
 
----
-
-### 🔐 [Privacy Auditing with Synthetic EHR Data](https://github.com/YOURUSERNAME/privacy-audit-synthetic-ehr)
-🧬 Research pipeline to evaluate privacy risk in synthetic datasets  
-→ Investigates attack resistance, fairness tradeoffs, and generative model vulnerabilities  
-`Python` `pandas` `scikit-learn` `matplotlib` `PyTorch`
+I recently conducted research at the **UCLA Trustworthy AI Lab**, developing tools to audit privacy risks in synthetic data models — especially in the context of **generative models** in the healthcare domain.
 
 ---
 
-### 📚 [AP Statistics Review Site](https://github.com/YOURUSERNAME/apstats-review)
-📘 Interactive Quarto-based site for AP Stats prep — aligned with the official College Board curriculum  
-→ Includes review guides, problem sets, and visualizations  
-`R` `Quarto` `LaTeX` `ggplot2`
+## Core Skills
+
+**Languages:**  
+Python · R · PostgreSQL · MySQL · HTML/CSS · LaTeX  
+
+**Libraries & Frameworks:**  
+pandas · NumPy · scikit-learn · PyTorch · XGBoost · tidyverse  
+
+**Dashboards & Visualization:**  
+Dash · Streamlit · Plotly · Matplotlib · ggplot2 · Tableau · Excel
+
+**Tools & Technologies:**  
+FastAPI · Flask · AWS · Git · Jupyter
 
 ---
 
-### 🌐 [COVID-19 Analytics Dashboard](https://github.com/YOURUSERNAME/covid-dashboard)
-🌍 Global trends visualized through Streamlit with API-integrated updates  
-→ Region-specific plots, case analysis, and temporal forecasts  
-`Python` `Streamlit` `Plotly` `REST API` `pandas`
+## Featured Projects
+
+### [NBA Play-by-Play Dashboard](https://github.com/YOURUSERNAME/nba-dashboard)  
+**An interactive basketball analytics platform with video playback**  
+A full-stack web app for visualizing NBA play-by-play data using Dash and FastAPI.  
+- Heatmaps, pass networks, scoring timelines  
+- Filter by player, game, or play type  
+- Dynamically loads relevant video clips  
+**Tech stack:** Python, Plotly, Dash, FastAPI, MoviePy, SQLite
 
 ---
 
-## 🛠️ Technical Toolkit
-
-**Languages**:  
-`Python` | `R` | `SQL` | `JavaScript` | `HTML/CSS` | `LaTeX`
-
-**Libraries & Tools**:  
-`pandas` | `NumPy` | `scikit-learn` | `XGBoost` | `LightGBM` | `PyTorch` | `tidyverse`
-
-**Dashboards & Visualization**:  
-`Dash` | `Streamlit` | `Plotly` | `Matplotlib` | `ggplot2` | `Tableau`
-
-**Other Tools**:  
-`FastAPI` | `AWS` | `MySQL` | `Git` | `Django` | `Jupyter`
+### [Privacy Auditing for Synthetic EHR Data](https://github.com/YOURUSERNAME/privacy-audit-synthetic-ehr)  
+**Evaluating privacy risks in synthetic health records**  
+A research pipeline assessing de-identification and attack resilience in generative health data.  
+- Membership inference simulations  
+- Differential privacy scoring  
+- Visualizations of trade-offs between utility and privacy  
+**Tech stack:** Python, NumPy, pandas, scikit-learn, PyTorch
 
 ---
 
-## 🌐 Explore More
+### [AP Statistics Review Site](https://github.com/YOURUSERNAME/apstats-review)  
+**Curriculum-aligned learning tools for AP Statistics**  
+A Quarto-based website for students preparing for the AP Statistics exam.  
+- Review guides, inference walkthroughs, and problem sets  
+- Visual demonstrations of key statistical concepts  
+**Tech stack:** R, Quarto, ggplot2, LaTeX
 
-- 🔗 **Website / Portfolio**: [nicklauskim.github.io](https://nicklauskim.github.io)
-- 📄 **Résumé**: Coming soon
-- 💬 **Let’s Connect on [LinkedIn](https://www.linkedin.com/in/YOURPROFILE)**
 
 ---
 
-> _Thanks for visiting!_ ✨  
-> _Check out my pinned projects below, or scroll through my repos to see what I’m working on._  
+## Explore More
+
+- **Website / Portfolio:** [nicklauskim.github.io](https://nicklauskim.github.io)  
+- **LinkedIn:** [linkedin.com/in/nicklauskim](https://www.linkedin.com/in/nicklauskim)  
+- **Résumé:** Available on request or via portfolio site
+
+---
+
+Thanks for stopping by! Feel free to explore my pinned projects or reach out if you’re interested in collaborating or hiring.
