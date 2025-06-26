@@ -45,7 +45,7 @@ A full-stack web app for visualizing NBA play-by-play data using Dash and FastAP
 
 ---
 
-### [Founding Stats Dashboard](https://github.com/YOURUSERNAME/founding-stats-dashboard)  
+### [Founding Stats Dashboard](https://github.com/nicklauskim/founding-stats)  
 **Visualizing correspondence networks and document metadata from the Founding Era**  
 An interactive Dash app that aggregates and analyzes metadata from letters written by and to key American founders.  
 - Interactive graphs showing communication frequency, relationships, and geographic trends  
@@ -67,7 +67,7 @@ A research pipeline assessing de-identification and attack resilience in generat
 
 ### [AP Statistics Review Site](https://github.com/nicklauskim/apstats-review)  
 **Curriculum-aligned learning tools for AP Statistics**  
-A Quarto-based website for students preparing for the AP Statistics exam.  
+A Quarto-based web page for students preparing for the AP Statistics exam.  
 - Review guides, inference walkthroughs, and problem sets  
 - Visual demonstrations of key statistical concepts  
 **Tech stack:** R, Quarto, ggplot2, LaTeX
