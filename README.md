@@ -1,8 +1,81 @@
-Hello, I'm Nick and welcome to my GitHub page!
+# 👋 Hello, I'm Nicklaus Kim
 
-I recently graduated from UCLA with a Master of Science (M.S.) in Statistics and am currently looking for full-time data scientist/data analyst roles in the public sector. I have experience in statistical research in various domains, mostly in academic environments, and I previously earned a B.S. in Applied Mathematics at UCLA. I specialize in Python, R, SQL, and Dash, and I have particular interest in creating stunning data dashboards and visualizations, statistical/machine learning, and spatial statistics, among other topics.
+🎓 **M.S. in Statistics (UCLA)** | 💼 **Aspiring Data Scientist / Analyst**  
+📊 Python • R • SQL • Dash • Machine Learning • Visualization  
+🌎 Public Sector | Research | Policy | Sports | AI Safety
 
-Most recently, I performed research on topics in generative AI at the Trustworthy AI Lab at UCLA. My research emphasized the methodology and application of synthetic data to improve modern statistical/ML models, particularly in terms of robustness, fairness, and differential privacy. Specifically, I investigated the paradigm of privacy auditing -- investigating the true privacy offered by different data synthesis methods, specifically under the risk of membership inference attacks and other attacks on generative models, in an adversarial framework. <!--While much of my focus was on the evaluation of such synthetic data methods, I am also interested in generative modeling methodology as a whole (reinforcement learning, large language models, etc.).-->
+---
 
-Please feel free to check out my website !(nicklauskim.github.io)[https://nicklauskim.github.io] for some examples of my previous work from grad school and research. Thanks!
+## 🧠 About Me
 
+I'm a data scientist and researcher with a passion for creating **impactful, intuitive, and beautiful** data solutions.
+
+I recently earned my **Master of Science in Statistics** from UCLA and am actively seeking full-time roles in **data science, analytics**, or **research-focused positions**, especially in the **public sector or mission-driven orgs**.
+
+I specialize in:
+- **Python, R, SQL** for data manipulation and modeling  
+- **Dash, Streamlit, Plotly, ggplot2** for rich, interactive dashboards  
+- **Statistical modeling, privacy-aware ML**, and **spatial analytics**
+
+Most recently, I conducted research at the **UCLA Trustworthy AI Lab**, where I explored **generative AI and synthetic data**, focusing on privacy auditing, fairness, and robustness in data-driven systems.
+
+🧪 My thesis investigated privacy vulnerabilities in synthetic health datasets, including **membership inference attacks** and **auditing frameworks** for generative models.
+
+---
+
+## 🚀 Featured Projects
+
+### 🏀 [NBA Play-by-Play Dashboard](https://github.com/YOURUSERNAME/nba-dashboard)
+📽️ A Dash + FastAPI app visualizing NBA play-by-play data  
+→ Shot heatmaps, pass networks, scoring timelines, and synced video playback  
+`Python` `Plotly` `Dash` `FastAPI` `SQLite` `MoviePy`
+
+---
+
+### 🔐 [Privacy Auditing with Synthetic EHR Data](https://github.com/YOURUSERNAME/privacy-audit-synthetic-ehr)
+🧬 Research pipeline to evaluate privacy risk in synthetic datasets  
+→ Investigates attack resistance, fairness tradeoffs, and generative model vulnerabilities  
+`Python` `pandas` `scikit-learn` `matplotlib` `PyTorch`
+
+---
+
+### 📚 [AP Statistics Review Site](https://github.com/YOURUSERNAME/apstats-review)
+📘 Interactive Quarto-based site for AP Stats prep — aligned with the official College Board curriculum  
+→ Includes review guides, problem sets, and visualizations  
+`R` `Quarto` `LaTeX` `ggplot2`
+
+---
+
+### 🌐 [COVID-19 Analytics Dashboard](https://github.com/YOURUSERNAME/covid-dashboard)
+🌍 Global trends visualized through Streamlit with API-integrated updates  
+→ Region-specific plots, case analysis, and temporal forecasts  
+`Python` `Streamlit` `Plotly` `REST API` `pandas`
+
+---
+
+## 🛠️ Technical Toolkit
+
+**Languages**:  
+`Python` | `R` | `SQL` | `JavaScript` | `HTML/CSS` | `LaTeX`
+
+**Libraries & Tools**:  
+`pandas` | `NumPy` | `scikit-learn` | `XGBoost` | `LightGBM` | `PyTorch` | `tidyverse`
+
+**Dashboards & Visualization**:  
+`Dash` | `Streamlit` | `Plotly` | `Matplotlib` | `ggplot2` | `Tableau`
+
+**Other Tools**:  
+`FastAPI` | `AWS` | `MySQL` | `Git` | `Django` | `Jupyter`
+
+---
+
+## 🌐 Explore More
+
+- 🔗 **Website / Portfolio**: [nicklauskim.github.io](https://nicklauskim.github.io)
+- 📄 **Résumé**: Coming soon
+- 💬 **Let’s Connect on [LinkedIn](https://www.linkedin.com/in/YOURPROFILE)**
+
+---
+
+> _Thanks for visiting!_ ✨  
+> _Check out my pinned projects below, or scroll through my repos to see what I’m working on._  
