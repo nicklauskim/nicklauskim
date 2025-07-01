@@ -26,7 +26,7 @@ Python · R · PostgreSQL · MySQL · HTML/CSS · LaTeX
 pandas · NumPy · scikit-learn · PyTorch · XGBoost · tidyverse  
 
 **Dashboards & Visualization:**  
-Dash · Streamlit · Plotly · Matplotlib · ggplot2 · Tableau · Excel
+Dash · Streamlit · Plotly · Matplotlib · ggplot2 · Excel
 
 **Tools & Technologies:**  
 FastAPI · Flask · AWS · Git · Jupyter
@@ -62,15 +62,6 @@ A research pipeline assessing de-identification and attack resilience in generat
 - Differential privacy scoring  
 - Visualizations of trade-offs between utility and privacy  
 **Tech stack:** Python, NumPy, pandas, scikit-learn, PyTorch
-
----
-
-### [AP Statistics Review Site](https://github.com/nicklauskim/apstats-review)  
-**Curriculum-aligned learning tools for AP Statistics**  
-A Quarto-based web page for students preparing for the AP Statistics exam.  
-- Review guides, inference walkthroughs, and problem sets  
-- Visual demonstrations of key statistical concepts  
-**Tech stack:** R, Quarto, ggplot2, LaTeX
 
 
 ---
