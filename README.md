@@ -45,7 +45,7 @@ A full-stack web app for visualizing NBA play-by-play data using Dash and FastAP
 
 ---
 
-### [Founding Stats Dashboard](https://github.com/nicklauskim/founding-stats)  
+### [Founding Stats Dashboard](https://github.com/nicklauskim/founding-stat)  
 **Visualizing correspondence networks and document metadata from the Founding Era**  
 An interactive Dash app that aggregates and analyzes metadata from letters written by and to key American founders.  
 - Interactive graphs showing communication frequency, relationships, and geographic trends  
