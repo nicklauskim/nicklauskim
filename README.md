@@ -7,7 +7,7 @@
 
 ## Summary
 
-I recently completed my M.S. in Statistics at UCLA and am currently searching for research-oriented statistician or data scientist/analyst opportunities, particularly in the public sector. I’m passionate about using my mathematical background and programming skills to build tools like data dashboards and web applications and production-level statistical learning models. I have experience in statistical and machine learning research in academia and a diverse set of data analysis/science skills In particular, I specialize in:
+I recently completed my M.S. in Statistics at UCLA and am currently aiming to pursue my PhD in Statistics starting in Fall 2026. I’m passionate about using my mathematical background and programming skills to build tools like data dashboards/data-rich web applications and production-level statistical learning models. I have experience in statistical and machine learning research in academia and a diverse set of data analysis/science skills In particular, I specialize in:
 - Reproducible data workflows in **Python, R, and SQL**
 - **Statistical modeling**, **machine learning**, and **spatial data analysis**
 - **Data visualization** and **Interactive dashboards** using Dash, Plotly, and Streamlit
@@ -20,16 +20,16 @@ I recently conducted research at the **UCLA Trustworthy AI Lab**, developing too
 ## Core Skills
 
 **Languages:**  
-Python · R · PostgreSQL · MySQL · HTML/CSS · LaTeX  
+Python · R · PostgreSQL · MySQL · HTML/CSS/JavaScript · LaTeX  
 
 **Libraries & Frameworks:**  
-pandas · NumPy · scikit-learn · PyTorch · XGBoost · tidyverse  
+pandas · NumPy · scikit-learn · SciPy · PyMC · PyTorch · tidyverse
 
 **Dashboards & Visualization:**  
-Dash · Streamlit · Plotly · Matplotlib · ggplot2 · Excel
+Dash · Streamlit · Plotly · Matplotlib · Seaborn · ggplot2 · Excel
 
 **Tools & Technologies:**  
-FastAPI · Flask · AWS · Git · Jupyter
+FastAPI · Flask · Django · Git · Jupyter
 
 ---
 
