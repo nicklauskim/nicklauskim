@@ -69,9 +69,9 @@ A research pipeline assessing de-identification and attack resilience in generat
 ## Explore More
 
 - **Website / Portfolio:** [nicklauskim.github.io](https://nicklauskim.github.io)  
-- **LinkedIn:** [linkedin.com/in/nicklauskim](https://www.linkedin.com/in/nicklauskim)  
-- **Résumé:** Available on request or via portfolio site
+<!--- **LinkedIn:** [linkedin.com/in/nicklauskim](https://www.linkedin.com/in/nicklauskim)  -->
+- **Résumé / CV:** Available on request or via portfolio site
 
 ---
 
-Thanks for stopping by! Feel free to explore my pinned projects or reach out if you’re interested in collaborating or hiring.
+Thanks for stopping by! Feel free to explore my pinned projects or reach out if you’re interested in collaborating or discussing anything related to data and stats.
