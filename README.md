@@ -1,10 +1,10 @@
-# Nicklaus Kim
+# Nick Kim
 
 ---
 
 ## Summary
 
-I recently completed my M.S. in Statistics at UCLA and am currently aiming to pursue my PhD in Statistics starting in Fall 2026. I have experience in statistical and machine learning research in academia and a diverse set of data analysis/science skills. I recently conducted research at the **UCLA Trustworthy AI Lab**, developing tools to audit privacy risks in synthetic data models — especially in the context of **generative models** in the healthcare domain.
+I am currently a first-year PhD student in the Statistics department at the University of Virginia. I have experience in statistical and machine learning research in academia and a diverse set of data analysis skills in Python, R, and SQL. Previously I completed my MS in Statistics at UCLA and conducted research at the **Trustworthy AI Lab**, developing tools to audit privacy risks in synthetic data models — especially in the context of **generative models** for tabular healthcare datasets.
 
 ---
 
@@ -18,4 +18,4 @@ pandas · NumPy · scikit-learn · SciPy · PyMC · PyTorch · tidyverse
 Dash · Streamlit · Plotly · Matplotlib · Seaborn · ggplot2 · Excel
 
 **Tools & Technologies:**  
-FastAPI · Flask · Django · Git · Jupyter
+FastAPI · Django · Git · Bash · Command Line
